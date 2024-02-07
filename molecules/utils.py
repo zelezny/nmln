@@ -1,7 +1,7 @@
 from rdkit import Chem
 from rdkit.Chem import Draw
 from rdkit.Chem import rdchem
-import mme
+# import mme
 import os
 from rdkit import Chem
 import numpy as np
